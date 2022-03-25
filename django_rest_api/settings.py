@@ -78,7 +78,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'django_rest_api.wsgi.application'
+WSGI_APPLICATION = 'JapanResourcesBackend.wsgi.application'
 
 
 # Database
